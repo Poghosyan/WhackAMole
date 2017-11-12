@@ -1,13 +1,18 @@
+import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by Mher on 7/8/2017.
- */
 public class WhackAMoleTest {
+
+    @Before
+    public void setUp() throws Exception {
+
+    }
+
     @Test
     public void whack() throws Exception {
+
     }
 
     @Test
